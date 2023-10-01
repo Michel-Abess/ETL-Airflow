@@ -1,0 +1,10 @@
+In this work I create a batch ETL that collect data from different sources and different formats (csv, tsv and fixed width) transform that data and consolidate it into a single csv file ready to be load into MysQL server.
+
+The orchestration of the pipelines is made using Apache Airflow system and python
+
+The company :
+------------- 
+The company manage national highways and want to analyse the road traffic data from different toll plazas as the final objectives. Each highway is operated by a different toll operator with a different IT setup that uses different file formats.
+
+
+
